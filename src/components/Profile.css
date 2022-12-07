@@ -1,0 +1,34 @@
+
+.login {
+    background-color: #04AA6D;
+    color: white;
+    padding: 16px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    opacity: 0.9;
+  }
+  
+  .login:hover {
+    opacity: 1;
+  }
+  input[type=text], input[type=email], input[type=file] {
+    width: 100%;
+    padding-left: 10px;
+    margin: 5px 0 22px 0;
+    display: inline-block;
+    border: none;
+    background: #f1f1f1;
+  }
+  
+  input[type=text]:focus, input[type=email]:focus, input[type=file]  {
+    background-color: #ddd;
+    outline: none;
+  }
+  .file
+  {
+      border-radius: 50%;
+      height: 250px;
+      width: 250;
+  }
