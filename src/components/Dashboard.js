@@ -95,7 +95,7 @@ function Dashboard() {
                    
                 </div>
 
-                {/* <div className="row">
+                <div className="row">
                     <div className="col-xl-6 col-md-12 col-sm-12">
                         <div className="dashboard-box main-box-in-row">
                             <div className="headline">
@@ -255,9 +255,9 @@ function Dashboard() {
                             </div>
                         </div>
                     </div>
-                </div> */}
+                </div>
 
-                {/* <div className="row">
+                <div className="row">
                     <div className="col-xl-6 col-md-12 col-sm-12">
                         <div className="dashboard-box">
                             <div className="headline">
@@ -618,7 +618,7 @@ function Dashboard() {
                             </nav>
                         </div>
                     </div>
-                </div> */}
+                </div>
             </div>
             <Footer/>
         </div>
